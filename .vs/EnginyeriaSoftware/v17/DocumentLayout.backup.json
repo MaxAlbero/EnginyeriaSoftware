@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEC581D2-2062-4DAD-9436-21246874B7C8}|ProjecteProva\\ProjecteProva.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\ProjecteProva\\ProjecteProva.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEC581D2-2062-4DAD-9436-21246874B7C8}|ProjecteProva\\ProjecteProva.vcxproj|solutionrelative:ProjecteProva\\ProjecteProva.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|solutionrelative:XMLProject\\xml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|C:\\USERS\\MAXIMOALBEROFERNANDE\\DOCUMENTS\\ENGINYERIASOFTWARE\\XMLPROJECT\\DEP\\INC\\XML\\RAPIDXML_ITERATORS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|solutionrelative:XMLPROJECT\\DEP\\INC\\XML\\RAPIDXML_ITERATORS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rapidxml_iterators.hpp",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
+              "RelativeDocumentMoniker": "XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
+              "RelativeToolTip": "XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T14:09:53.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjecteProva.cpp",
-              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\ProjecteProva\\ProjecteProva.cpp",
-              "RelativeDocumentMoniker": "ProjecteProva\\ProjecteProva.cpp",
-              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\ProjecteProva\\ProjecteProva.cpp",
-              "RelativeToolTip": "ProjecteProva\\ProjecteProva.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Title": "xml.cpp",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp",
+              "RelativeDocumentMoniker": "XMLProject\\xml.cpp",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp",
+              "RelativeToolTip": "XMLProject\\xml.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-17T14:58:00.473Z",
+              "WhenOpened": "2025-09-18T13:57:57.545Z",
               "EditorCaption": ""
             }
           ]
