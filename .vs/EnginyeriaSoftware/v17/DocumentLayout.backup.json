@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|solutionrelative:XMLProject\\xml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\HerenciaPoli\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:HerenciaPoli\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|C:\\USERS\\MAXIMOALBEROFERNANDE\\DOCUMENTS\\ENGINYERIASOFTWARE\\XMLPROJECT\\DEP\\INC\\XML\\RAPIDXML_ITERATORS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F98A1BF-A566-4675-98C0-D53389BFFB6C}|XMLProject\\XMLProject.vcxproj|solutionrelative:XMLPROJECT\\DEP\\INC\\XML\\RAPIDXML_ITERATORS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:Repas\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:Repas\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:Repas\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\AdminTeach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:Repas\\AdminTeach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Administrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F1243D4-E2E2-4DD2-ABF4-FFDC86F936D4}|HerenciaPoli\\HerenciaPoli.vcxproj|solutionrelative:Repas\\Administrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +33,85 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 76,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "rapidxml_iterators.hpp",
-              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
-              "RelativeDocumentMoniker": "XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
-              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
-              "RelativeToolTip": "XMLProject\\dep\\inc\\xml\\rapidxml_iterators.hpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T14:09:53.2Z",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\HerenciaPoli\\main.cpp",
+              "RelativeDocumentMoniker": "HerenciaPoli\\main.cpp",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\HerenciaPoli\\main.cpp",
+              "RelativeToolTip": "HerenciaPoli\\main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T14:06:39.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "xml.cpp",
-              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp",
-              "RelativeDocumentMoniker": "XMLProject\\xml.cpp",
-              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\XMLProject\\xml.cpp",
-              "RelativeToolTip": "XMLProject\\xml.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T13:57:57.545Z",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Vehicle.h",
+              "RelativeDocumentMoniker": "Repas\\Vehicle.h",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Vehicle.h",
+              "RelativeToolTip": "Repas\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T14:03:08.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.h",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Teacher.h",
+              "RelativeDocumentMoniker": "Repas\\Teacher.h",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Teacher.h",
+              "RelativeToolTip": "Repas\\Teacher.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T14:03:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Car.h",
+              "RelativeDocumentMoniker": "Repas\\Car.h",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Car.h",
+              "RelativeToolTip": "Repas\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T14:03:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminTeach.h",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\AdminTeach.h",
+              "RelativeDocumentMoniker": "Repas\\AdminTeach.h",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\AdminTeach.h",
+              "RelativeToolTip": "Repas\\AdminTeach.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T14:03:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.h",
+              "DocumentMoniker": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Administrator.h",
+              "RelativeDocumentMoniker": "Repas\\Administrator.h",
+              "ToolTip": "C:\\Users\\MaximoAlberoFernande\\Documents\\EnginyeriaSoftware\\Repas\\Administrator.h",
+              "RelativeToolTip": "Repas\\Administrator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T14:03:05.644Z",
               "EditorCaption": ""
             }
           ]

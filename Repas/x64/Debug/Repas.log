@@ -1,0 +1,5 @@
+﻿  Repas.cpp
+C:\Users\MaximoAlberoFernande\Documents\EnginyeriaSoftware\Repas\GameObject.h(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Repas.cpp')
+  
+  Repas.vcxproj -> C:\Users\MaximoAlberoFernande\Documents\EnginyeriaSoftware\x64\Debug\Repas.exe
