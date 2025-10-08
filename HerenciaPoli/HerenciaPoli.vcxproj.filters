@@ -30,8 +30,23 @@
     <ClInclude Include="..\Repas\Vehicle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="madlad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

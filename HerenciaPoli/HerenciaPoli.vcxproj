@@ -128,8 +128,13 @@
     <ClInclude Include="..\Repas\Car.h" />
     <ClInclude Include="..\Repas\Teacher.h" />
     <ClInclude Include="..\Repas\Vehicle.h" />
+    <ClInclude Include="ConfigScene.h" />
+    <ClInclude Include="GameScene.h" />
+    <ClInclude Include="MenuScene.h" />
+    <ClInclude Include="Scene.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="madlad.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
