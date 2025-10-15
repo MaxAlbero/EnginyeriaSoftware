@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\MaximoAlberoFernande\Documents\EnginyeriaSoftware\ProvaScenes\ProvaScenes\GameEngineBase\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProvaScenes.vcxproj -> C:\Users\MaximoAlberoFernande\Documents\EnginyeriaSoftware\ProvaScenes\x64\Debug\ProvaScenes.exe
