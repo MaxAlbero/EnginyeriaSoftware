@@ -30,6 +30,9 @@
     <ClInclude Include="gameEngine\GameData.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="gameEngine\SceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gameEngine\main.cpp">

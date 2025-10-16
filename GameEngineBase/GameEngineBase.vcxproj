@@ -128,6 +128,7 @@
     <ClInclude Include="gameEngine\GameScene.h" />
     <ClInclude Include="gameEngine\MenuScene.h" />
     <ClInclude Include="gameEngine\Scene.h" />
+    <ClInclude Include="gameEngine\SceneManager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gameEngine\main.cpp" />

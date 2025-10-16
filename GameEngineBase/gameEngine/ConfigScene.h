@@ -1,8 +1,6 @@
 #pragma once
 #pragma once
 #include "Scene.h"
-#include <conio.h>
-#include <iostream>
 #include "GameData.h"
 
 class ConfigScene : public Scene {
